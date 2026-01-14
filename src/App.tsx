@@ -69,7 +69,7 @@ setLoading(false)
 
 return (
 <div className="App">
-<h1>Calculadora simple</h1>
+<h1>Calculadora numero 2</h1>
 <form onSubmit={submit} className="calc-form">
 <div>
 <label>Valor A</label>
